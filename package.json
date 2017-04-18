@@ -1,0 +1,27 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysadre/apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysadre/apis/issues"
+  },
+  "homepage": "https://github.com/ysadre/apis#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.5.4"
+  }
+}

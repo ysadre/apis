@@ -5,6 +5,8 @@ $.ajax({
   url: url,
   success: function(result){
   $("#date").text(result.date);
+  $("#url").text(result.url);
   $("#returnObject").text(JSON.stringify(result, null, 4));  
 }
 });
+
